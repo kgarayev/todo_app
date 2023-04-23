@@ -1,0 +1,22 @@
+body {
+  width: 75%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.item {
+  padding: 5px;
+  margin-top: 10px;
+  min-width: 100px;
+  max-width: 500px;
+}
+
+.incomplete {
+  background-color: rgb(237, 222, 162);
+}
+
+.complete {
+  background-color: rgb(183, 244, 184);
+  text-decoration: line-through;
+}
