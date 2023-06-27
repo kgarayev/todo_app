@@ -1,4 +1,12 @@
 # :clipboard: Simple Todo App
+
+## :computer: Tech Used
+
+- Programming Languages: JavaScript (Vanilla)
+- 3rd Party Libraries: Axios
+- Web Development: HTML, CSS
+- Version Control: Git
+
 ## :page_facing_up: Overview
 
 The Simple Todo App is a basic frontend application built using Vanilla JavaScript. It serves as a platform for managing tasks by allowing users to add and remove tasks, mark them as complete, and filter through the task list. The primary objective of this project was to practice JavaScript skills, and it was developed within a limited timeframe of 2 hours.
