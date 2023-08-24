@@ -4,6 +4,7 @@ const fakeDataURL = `https://jsonplaceholder.typicode.com/todos`;
 let todos = [];
 let filter = "";
 let newItem = "";
+let selectedItem = "";
 
 // gets data and stores in the upper scope
 const getFakeData = async () => {
